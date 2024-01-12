@@ -2,7 +2,7 @@
 
 Welcome to the WhatsApp Chat Analyzer project! This tool allows you to analyze and visualize statistics from your WhatsApp group chats.
 
-### Check it out live: [Live Demo]()
+### Check it out live: [Live Demo](https://whatsapp-chat-analyzerr.streamlit.app/)
 
 ## Table of Contents
 - [Overview](#overview)
