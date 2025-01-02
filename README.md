@@ -58,11 +58,6 @@ Contributions are welcome! If you'd like to contribute to WhatsApp Chat Analyzer
 4. Push to the branch: `git push origin my-feature`
 5. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Your contributions and feedback are appreciated!
-
 ---
 
 *Explore your WhatsApp chat data and gain insights with WhatsApp Chat Analyzer!*
